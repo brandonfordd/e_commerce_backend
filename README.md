@@ -50,7 +50,15 @@ SO THAT my company can compete with other e-commerce companies
 brandonfordd
 ```
 ## Tests
-![GIF](https://github.com/brandonfordd/notetaker/blob/main/public/assets/gifs/notetaker_preview.gif?raw=true)
+
+### Category routes
+![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/categories.gif?raw=true)
+
+### Product routes
+![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/product.gif?raw=true)
+
+### Tag routes
+![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/tag.gif?raw=true)
 
 ## Questions?
 For any questions, please contact me with the information below:
