@@ -55,10 +55,10 @@ brandonfordd
 ![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/categories.gif?raw=true)
 
 ### Product routes
-![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/product.gif?raw=true)
+![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/products.gif?raw=true)
 
 ### Tag routes
-![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/tag.gif?raw=true)
+![GIF](https://github.com/brandonfordd/e_commerce_backend/blob/main/Assets/gifs/tags.gif?raw=true)
 
 ## Questions?
 For any questions, please contact me with the information below:
